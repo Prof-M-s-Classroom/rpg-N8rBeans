@@ -126,7 +126,7 @@ if __name__ == "__main__":
     # generate decision tree
     game_tree = GameDecisionTree()
 
-    # load story into decision tree
+    # load story into decision tree (from AI generated text file)
     load_story("story.txt", game_tree)
 
     # run the game
