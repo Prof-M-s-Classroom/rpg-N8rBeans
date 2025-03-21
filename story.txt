@@ -1,22 +1,14 @@
-1 | You wake up in a mysterious underground bunker. Do you: 1) Search for an exit 2) Look for supplies | 2 | 3
-2 | You find a locked door. Do you: 1) Try to pick the lock 2) Look for another way | 4 | 5
-3 | You find a flashlight and a map. Do you: 1) Follow the map 2) Explore freely | 6 | 7
-4 | The lock clicks open, revealing a dark corridor. Do you: 1) Enter cautiously 2) Look for a weapon first | 8 | 9
-5 | You find a ventilation shaft. Do you: 1) Crawl through it 2) Try to force open a nearby hatch | 10 | 11
-6 | The map leads to an old security room. Do you: 1) Check the security footage 2) Search for weapons | 12 | 9
-7 | You stumble into a surveillance room with blinking monitors. Do you: 1) Investigate the screens 2) Keep moving | 12 | 13
-8 | You step into the corridor and hear footsteps approaching. Do you: 1) Hide 2) Confront the source | 14 | 15
-9 | You find an old wrench and take it for protection. Do you: 1) Go back to the door 2) Explore another path | 8 | 11
-10 | The vent leads to a storage room. Do you: 1) Search the crates 2) Look for another exit | -1 | 16
-11 | The hatch leads to a staircase going up. Do you: 1) Climb cautiously 2) Rush upwards | 17 | 18
-12 | The footage shows a hidden door behind a cabinet. Do you: 1) Investigate 2) Ignore and keep searching | 19 | -1
-13 | You encounter a locked safe. Do you: 1) Try to crack the code 2) Look for clues | -1 | 12
-14 | You hide behind crates as two figures pass by. Do you: 1) Follow them 2) Stay hidden and wait | 20 | -1
-15 | The figure is a lone survivor who warns you of dangers ahead. Do you: 1) Trust them and follow 2) Go your own way | 21 | 22
-16 | You find a keycard among the crates. Do you: 1) Take it and return to the security room 2) Search for another way out | 12 | -1
-17 | The staircase leads to a heavily guarded exit. Do you: 1) Try to sneak past 2) Look for an alternative | -1 | 20
-18 | You rush up and trigger an alarm. Do you: 1) Run 2) Hide | -1 | 14
-19 | Behind the cabinet, you find a hidden passage leading outside. | -1 | -1
-20 | You find an air vent leading to an escape hatch. Do you: 1) Crawl through it 2) Look for another route | -1 | 10
-21 | The survivor helps you escape safely. | -1 | -1
-22 | You get lost in the bunker’s labyrinthine tunnels. | -1 | -1
+1 | You're in your room when a mysterious watch appears. Do you: 1) Inspect it 2) Ignore it | 2 | 6 
+2 | The watch is a time machine and transports you to the wild west. Do you: 1) Search for gold 2) Join a saloon poker game | 3 | 4 
+3 | You stumble upon a nugget. Do you: 1) Try to sell it 2) Keep it as a souviner | 7 | 9
+4 | You win the poker game and they suspect you're cheating. Do you: 1) Make a run for it 2) Explain yourself | 5 | 6
+5 | You get caught and end up in a wild west jail. | -1 | -1 
+6 | The watch activates again and transports you to an 80's disco. Do you: 1) Dance 2) Go to the bar | 8 | 10
+7 | You make a fortune selling the nugget and buy a ranch in Texas. | -1 | -1 
+8 | You win a disco dance off and become an 80's legend. | -1 | -1 
+9 | The nugget starts glowing and opens a portal back to your room. Do you: 1) Enter the portal 2) Stay in the wild west | 12 | 14
+10 | You chill at the bar and discuss why avocados are overrated with an 80's punk band. | -1 | -1 
+12 | Your room fills with wild west and 80's memorabilia. Do you: 1) Start a YouTube show to display your artifacts 2) Use it for an epic Instagram post | 13 | 15
+13 | Your YouTube show goes viral and earns you a guest appearance on a late night talk show. | -1 | -1 
+14 | You become sheriff and institute mandatory napping hours. | -1 | -1 
+15 | Your post makes you an overnight influencer. You suddenly can afford avocado toast without guilt. | -1 | -1 
